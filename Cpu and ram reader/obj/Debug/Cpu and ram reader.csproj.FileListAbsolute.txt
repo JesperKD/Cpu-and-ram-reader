@@ -1,0 +1,7 @@
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\obj\Debug\Cpu and ram reader.csprojAssemblyReference.cache
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\obj\Debug\Cpu and ram reader.csproj.CoreCompileInputs.cache
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\bin\Debug\Cpu and ram reader.exe.config
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\bin\Debug\Cpu and ram reader.exe
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\bin\Debug\Cpu and ram reader.pdb
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\obj\Debug\Cpu and ram reader.exe
+C:\Users\jesp446c\source\repos\Cpu and ram reader\Cpu and ram reader\obj\Debug\Cpu and ram reader.pdb
